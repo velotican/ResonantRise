@@ -63,6 +63,7 @@
         description="" />
 	<mod url="packs/ResonantRise/files/NEIPlugins-1.1.0.0pre1.jar" file="NEIPlugins-1.1.0.0pre1.jar" md5="fa0a3bc407a9f2df5ec4c832e9639374" download="server"
         name="NEI Plugins" type="mods" version="1.1.0.0pre1"
+        server="no"
         website=""
         description="" />
 	<mod url="packs/ResonantRise/files/appeng-rv13-b-mc162.jar" file="appeng-rv13-b-mc162.jar" md5="f4e8d34b52c460f0a9ecdde342fb50f6" download="server"
